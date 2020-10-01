@@ -1,0 +1,23 @@
+1. Wireframing - Draw a rough sketch of what we are actually going to build
+2. Functionality 
+    * Signin
+    * Signup
+    * Create a Channel
+    * Join Channel
+    * Search for Channel
+    * Send message in Channel
+3. Data
+    * Users
+    * Channels
+    * Messages
+4. UI Components
+    * Slack Navbar Component
+    * Sidebar
+        * List of Channels
+        * List of DMs
+    * MainContainer
+        * Header
+        * Messages
+        * CreateMessage
+    *Signin
+    *Signup   
